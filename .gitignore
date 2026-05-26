@@ -240,3 +240,4 @@ Thumbs.db
 
 # Claude Code local settings (per-machine; don't commit)
 .claude/
+CLAUDE.md
